@@ -1,0 +1,13 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 10 (mojito)
+Device maintainer: Xscar
+Required firmware: v13.0.7 
+
+===== 2022.06.22 =====
+• Initial Official Build
+• Updated to June security patch
+• Synced Latest riceDroid v2.5 changes
+• (Due to some schedule conflicts we are going to skip 3.0. But fret not,
+here's an early update for RiceDroid 2.5!) 
+• Misc. Fixes and Improvements

@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Xscar",
+        "oem": "Xiaomi",
+        "device": "Redmi Note 10",
+        "filename": "riceDroid-12.1-202206260646-mojito-v2.5-GAPPS.zip",
+        "download": "https://sourceforge.net/projects/ricedroid/files/mojito/2.x/riceDroid-12.1-202206260646-mojito-v2.5-GAPPS.zip/download",
+        "timestamp": 1656225880,
+        "md5": "3515b32d6083d4b1bbe610e9ff6de2b8",
+        "sha256": "05346b8d93713e9ae57a8cc5f7d076826958785ac4c5eb91634ea346099f913a",
+        "size": 1421932115,
+        "version": "2.5",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "https://t.me/XscarGODsupport/419",
+        "firmware": "https://xiaomifirmwareupdater.com/firmware/mojito/stable/V13.0.7.0.SKGMIXM/",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "https://github.com/XscarGOD/Updates/releases/tag/RiceDroid_Recovery",
+        "paypal": "",
+        "telegram": "https://t.me/death2feel",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }
+  ]
+}
